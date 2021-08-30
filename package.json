@@ -1,0 +1,8 @@
+{
+  "name": "xv-api",
+  "version": "0.0.0",
+  "description": "Proxy API for xv project",
+  "author": "icmx",
+  "private": true,
+  "license": "MIT"
+}
