@@ -1,6 +1,5 @@
 export interface ComicDto {
   id: string;
-  tag: 'xkcd';
   title: string;
   caption?: string;
   transcript?: string;
