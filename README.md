@@ -8,7 +8,7 @@ For development:
 
 ```sh
 npm install
-npm run start:dev # lostening on localhost:3000
+npm run start:dev # listening on localhost:3000
 ```
 
 ## License
